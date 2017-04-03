@@ -1,0 +1,25 @@
+@charset "utf-8";
+table {
+	background-color: #FFFCFC;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: xx-large;
+	text-decoration: underline;
+	text-shadow: 0px 0px #FF0004;
+	color: #0B0A9B;
+}
+body ul li {
+	display: inline;
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: oblique;
+	font-variant: normal;
+	color: #F5F3F3;
+	text-decoration: underline;
+	font-size: x-large;
+	margin-left: 40px
+		
+}
